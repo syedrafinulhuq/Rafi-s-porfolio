@@ -49,9 +49,27 @@ h2{
     padding-left: 10px;
     border-radius: 10px;
     box-shadow: 10px 10px 40px yellowgreen;
+   
 }
 .Experience-area{
  background-image: url(/Rafi-s-porfolio/images/exp-bg.png);
  background-repeat: no-repeat;
  background-position: left;
+}
+
+#web-dev-experience{
+    border-left: 7px solid;
+ border-image: linear-gradient(blue, cyan);
+ border-image-slice: 1;
+
+}
+
+#full-stack-experience{
+    border-left: 7px solid;
+ border-image: linear-gradient(salmon,tomato);
+ border-image-slice: 1;
+
+}
+footer p{
+    text-align: center;
 }
